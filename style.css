@@ -1,5 +1,18 @@
 img{
 width: 200px;
-
-
+height: 100px;
+background-color: blueviolet;
 }
+.primeirasecao{
+
+    width: 1000px;
+    height: 500px;
+    background-color:rgb(red, green, blue)
+}
+.divisao{
+width: 200px;
+height: 200px;
+background-color:blueviolet
+}
+
+(red, green, blue)
